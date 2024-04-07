@@ -3,5 +3,5 @@
 ## Use this command to use the image
 
 ```bash
-    docker pull meeyth/hello-flask:0.0.1.RELEASE
+docker pull meeyth/hello-flask:0.0.1.RELEASE
 ```
